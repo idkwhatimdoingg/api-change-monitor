@@ -106,7 +106,7 @@ api-change-monitor/
 Clone the repository:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/idkwhatimdoingg/api-change-monitor.git
 ```
 
 Navigate into the project folder:
